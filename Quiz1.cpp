@@ -7,7 +7,7 @@ Quiz1::Quiz1()
 Quiz1::~Quiz1()
 {
 	delete myArray;
-	cout << "object deleted" << endl;
+	cout << "IN DESTRUCTOR: object deleted" << endl;
 }
 
 int Quiz1::countVowels(string input)

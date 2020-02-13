@@ -1,7 +1,7 @@
 #include <iostream> //preprocessor directive
 
 using namespace std;
-
+//i need to add more comments or else rene will lose it
 class Quiz1
 {
 	public:
